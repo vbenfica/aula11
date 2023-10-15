@@ -4,7 +4,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image : url(fundo1.jpg);
+    background-image : url(fundo2.jpg);
     background-repeat: no-repeat;
     background-size: 1720px;
 }
@@ -33,7 +33,7 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: white;
+    color: red    ;
 }
 
 /* Estilos das seções */
@@ -66,7 +66,7 @@ h1{
     text-align: center;
 }
 h2{
-    color:white ;
+    color:red;
     text-align: center;
     text-decoration-line:none;
 
@@ -91,8 +91,10 @@ img {
    
 }
 #voltar{
-    color:white;
-    text-decoration: none;
+    color:red;
+    text-align: center;
+    text-decoration-line: none;
+    
 }
 
 
